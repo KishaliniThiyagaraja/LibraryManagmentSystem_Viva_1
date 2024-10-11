@@ -10,13 +10,13 @@ namespace BookRentalManagementSystem_V1
 {
     internal class Book
     {
-        private int BookId { get; set; }
-        private string Title { get; set; }
-        private string Author { get; set; }
-        private decimal RentalPrice { get; set; }
+        public int BookId { get; set; }
+        public string Title { get; set; }
+        public string Author { get; set; }
+        public decimal RentalPrice { get; set; }
 
 
-        private Book(int bookId, string title, string author, decimal rentalPrice)
+        public Book(int bookId, string title, string author, decimal rentalPrice)
         {
             BookId = bookId;
             Title = title;
@@ -24,7 +24,7 @@ namespace BookRentalManagementSystem_V1
             RentalPrice = rentalPrice;
         }
 
-        private Book() { }
+        public Book() { }
 
         public override string ToString()
         {
