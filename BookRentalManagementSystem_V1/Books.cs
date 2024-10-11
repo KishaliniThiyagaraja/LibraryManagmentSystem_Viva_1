@@ -2,7 +2,7 @@
 {
     internal class Books : Book
     {
-        public Books(int bookId, string title, string author, decimal rentalPrice) : base(bookId, title, author, rentalPrice)
+        public Books(string bookId, string title, string author, decimal rentalPrice) : base(bookId, title, author, rentalPrice)
         {
         }
     }

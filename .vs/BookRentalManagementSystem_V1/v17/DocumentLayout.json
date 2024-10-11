@@ -3,28 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|c:\\users\\ut01188\\desktop\\lms_ut01188\\bookrentalmanagementsystem_v1\\bookrentalmanagementsystem_v1\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\UT01188\\AppData\\Local\\Temp\\.vsdbgsrc\\6e292e258c6a59a70397290a23012587fd2cc98bb0b57dd5e3e2292b9b257540\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\bookrentalmanagementsystem_v1\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4343DD4-01F6-4E1B-9AF6-1E5CF73558CC}|BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1.csproj|solutionrelative:bookrentalmanagementsystem_v1\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +37,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT01188\\AppData\\Local\\Temp\\.vsdbgsrc\\6e292e258c6a59a70397290a23012587fd2cc98bb0b57dd5e3e2292b9b257540\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6e292e258c6a59a70397290a23012587fd2cc98bb0b57dd5e3e2292b9b257540\\Program.cs",
+              "ToolTip": "C:\\Users\\UT01188\\AppData\\Local\\Temp\\.vsdbgsrc\\6e292e258c6a59a70397290a23012587fd2cc98bb0b57dd5e3e2292b9b257540\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6e292e258c6a59a70397290a23012587fd2cc98bb0b57dd5e3e2292b9b257540\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:42:07.808Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -51,16 +67,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PrintedBook.cs",
               "DocumentMoniker": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\PrintedBook.cs",
               "RelativeDocumentMoniker": "BookRentalManagementSystem_V1\\PrintedBook.cs",
               "ToolTip": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\PrintedBook.cs",
               "RelativeToolTip": "BookRentalManagementSystem_V1\\PrintedBook.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:06:23.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T09:06:23.887Z"
             },
             {
               "$type": "Document",
@@ -70,34 +85,35 @@
               "RelativeDocumentMoniker": "BookRentalManagementSystem_V1\\EBook.cs",
               "ToolTip": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\EBook.cs",
               "RelativeToolTip": "BookRentalManagementSystem_V1\\EBook.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvwMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T09:06:06.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BookManager.cs",
               "DocumentMoniker": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\BookManager.cs",
               "RelativeDocumentMoniker": "BookRentalManagementSystem_V1\\BookManager.cs",
               "ToolTip": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\BookManager.cs",
               "RelativeToolTip": "BookRentalManagementSystem_V1\\BookManager.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:32:00.624Z"
+              "WhenOpened": "2024-10-11T08:32:00.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Book.cs",
-              "RelativeDocumentMoniker": "BookRentalManagementSystem_V1\\Book.cs",
-              "ToolTip": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Book.cs",
-              "RelativeToolTip": "BookRentalManagementSystem_V1\\Book.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBoAAAAZAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Program.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem_V1\\Program.cs",
+              "ToolTip": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Program.cs",
+              "RelativeToolTip": "BookRentalManagementSystem_V1\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwGoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:11:08.232Z",
+              "WhenOpened": "2024-10-11T08:10:10.219Z",
               "EditorCaption": ""
             },
             {
@@ -107,14 +123,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Program.cs",
-              "RelativeDocumentMoniker": "BookRentalManagementSystem_V1\\Program.cs",
-              "ToolTip": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Program.cs",
-              "RelativeToolTip": "BookRentalManagementSystem_V1\\Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAgwGwAAAAAAAAA",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Book.cs",
+              "RelativeDocumentMoniker": "BookRentalManagementSystem_V1\\Book.cs",
+              "ToolTip": "C:\\Users\\UT01188\\Desktop\\LMS_UT01188\\BookRentalManagementSystem_V1\\BookRentalManagementSystem_V1\\Book.cs",
+              "RelativeToolTip": "BookRentalManagementSystem_V1\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T08:10:10.219Z"
+              "WhenOpened": "2024-10-11T08:11:08.232Z"
             }
           ]
         }

@@ -16,7 +16,7 @@ namespace BookRentalManagementSystem_V1
 
 
 
-        public EBook(int bookId, string title, string author, decimal rentalPrice, double fileSize, string format)
+        public EBook(string bookId, string title, string author, decimal rentalPrice, double fileSize, string format)
             : base(bookId, title, author, rentalPrice)
         {
             FileSize = fileSize;

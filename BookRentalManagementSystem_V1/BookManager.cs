@@ -10,25 +10,24 @@ namespace BookRentalManagementSystem_V1
     {
 
         private List<Book> books = new List<Book>();
-        private int nextId = 1;
+       // private string nextId = 1;
         private decimal newRentalPrice;
+
 
         public void CreateBook(string title, string author, decimal rentalPrice)
         {
 
+           if (ValidateBookRentalPrice(ref rentalPrice))
+            {
+                var book = new Book(nextId++, title, author, rentalPrice);
+                books.Add(book);
 
-
-            var Book = new Books(nextId++, title, author, rentalPrice);
-            books.Add(Book);
-
-            Console.WriteLine("Book added successfully!");
-
+                Console.WriteLine("Book added successfully!");
+            }
         }
 
 
-
-
-    public void ReadBooks()
+        public void ReadBooks()
         {
             if (books.Count == 0)
             {
@@ -43,15 +42,18 @@ namespace BookRentalManagementSystem_V1
             }
         }
 
-        public void UpdateBook(int bookId, string newTitle, string newAuthor, decimal c)
+        public void UpdateBook(string bookId, string newTitle, string newAuthor, decimal c)
         {
             var book = books.Find(b => b.BookId == bookId);
             if (book != null)
             {
+                if (ValidateBookRentalPrice(ref newRentalPrice))
+                {
 
 
-                books.Add(new Book(bookId, newTitle, newAuthor, newRentalPrice));
-                Console.WriteLine("Book updated successfully!");
+                    books.Add(new Book(bookId, newTitle, newAuthor, newRentalPrice));
+                    Console.WriteLine("Book updated successfully!");
+                }
             }
 
             else
@@ -70,7 +72,7 @@ namespace BookRentalManagementSystem_V1
 
         }
 
-        public void DeleteBook(int bookId)
+        public void DeleteBook(string bookId)
         {
             var book = books.Find(b => b.BookId == bookId);
             if (book != null)
@@ -87,12 +89,28 @@ namespace BookRentalManagementSystem_V1
             }
 
         }
-
-
+        public bool ValidateBookRentalPrice(ref decimal rentalPrice)
+        {
+            while (rentalPrice <= 0)
+            {
+                Console.WriteLine("Rental price must be a positive value. Please enter a valid rental price:");
+                if (!decimal.TryParse(Console.ReadLine(), out rentalPrice) || rentalPrice <= 0)
+                {
+                    Console.WriteLine("Invalid input. Please try again.");
+                }
+            }
+            return true;
+        }
     }
-
-
 }
+
+
+
+
+    
+
+
+
 
 
 

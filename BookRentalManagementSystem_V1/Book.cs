@@ -10,7 +10,7 @@ namespace BookRentalManagementSystem_V1
 {
     internal class Book
     {
-        public int BookId { get; set; }
+        public string BookId { get; set; }
         public string Title { get; set; }
         public string Author { get; set; }
         public decimal RentalPrice { get; set; }
@@ -18,7 +18,7 @@ namespace BookRentalManagementSystem_V1
 
 
 
-        public Book(int bookId, string title, string author, decimal rentalPrice)
+        public Book(string bookId, string title, string author, decimal rentalPrice)
         {
             BookId = bookId;
             Title = title;

@@ -9,6 +9,7 @@ namespace BookRentalManagementSystem
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
             BookManager bookManager = new BookManager();
@@ -104,5 +105,3 @@ namespace BookRentalManagementSystem
         }
     }
 }
-
-
