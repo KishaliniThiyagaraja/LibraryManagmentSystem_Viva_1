@@ -4,8 +4,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-
 namespace BookRentalManagementSystem_V1
 {
     internal class BookManager
@@ -13,7 +11,7 @@ namespace BookRentalManagementSystem_V1
 
         private List<Book> books = new List<Book>();
         private int nextId = 1;
-
+        private decimal newRentalPrice;
 
         public void CreateBook(string title, string author, decimal rentalPrice)
         {
@@ -30,7 +28,7 @@ namespace BookRentalManagementSystem_V1
 
 
 
-        public void ReadBooks()
+    public void ReadBooks()
         {
             if (books.Count == 0)
             {
@@ -41,13 +39,13 @@ namespace BookRentalManagementSystem_V1
 
             foreach (var book in books)
             {
-                Console.WriteLine($"{book.Title} {book.bookId} {book.rentalPrice} {book.author}");
+                Console.WriteLine($"{book.Title} {book.BookId} {book.RentalPrice} {book.Author}");
             }
         }
 
         public void UpdateBook(int bookId, string newTitle, string newAuthor, decimal c)
         {
-            var book = books.Find(b => b.bookId == bookId);
+            var book = books.Find(b => b.BookId == bookId);
             if (book != null)
             {
 
@@ -64,9 +62,9 @@ namespace BookRentalManagementSystem_V1
             if (book != null)
             {
                 book.BookId = bookId;
-                book.author = newAuthor;
-                book.title = newTitle;
-                book.rentalPrice = c;
+                book.Author = newAuthor;
+                book.Title = newTitle;
+                book.RentalPrice = c;
 
             }
 

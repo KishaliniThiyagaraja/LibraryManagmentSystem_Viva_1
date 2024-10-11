@@ -10,27 +10,30 @@ namespace BookRentalManagementSystem_V1
 {
     internal class Book
     {
-        private string BookId { get; set; }
-        private string Title { get; set; }
-        private string Author { get; set; }
-        private decimal RentalPrice { get; set; }
+        public int BookId { get; set; }
+        public string Title { get; set; }
+        public string Author { get; set; }
+        public decimal RentalPrice { get; set; }
 
-        public Book(string bookId, string title, string author, decimal rentalPrice)
+
+        public Book(int bookId, string title, string author, decimal rentalPrice)
         {
-            this.BookId = bookId;
-            this.Title = title;
-            this.Author = author;
-            this.RentalPrice = rentalPrice;
+            BookId = bookId;
+            Title = title;
+            Author = author;
+            RentalPrice = rentalPrice;
         }
-
+           
         public Book() { }
+
         public override string ToString()
         {
-            return $"bookId: {BookId}, title: {Title}, author: {Author}, rentalPrice: {RentalPrice}";
+            return $"ID: {BookId}, Title: {Title}, Author: {Author}, RentalPrice: {RentalPrice:C}";
         }
-       
     }
 }
+
+    
 
 
 
