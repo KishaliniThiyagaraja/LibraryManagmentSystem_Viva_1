@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BookRentalManagementSystem_V1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,20 +10,31 @@ namespace BookRentalManagementSystem_V1
 {
     internal class Book
     {
-        private string bookId { get; set; }
-        private string title { get; set; }
-        private string author { get; set; }
-        private decimal rentalPrice { get; set; }
+        private string BookId { get; set; }
+        private string Title { get; set; }
+        private string Author { get; set; }
+        private decimal RentalPrice { get; set; }
 
         public Book(string bookId, string title, string author, decimal rentalPrice)
         {
-            this.bookId = bookId;
-            this.title = title;
-            this.author = author;
-            this.rentalPrice = rentalPrice;
+            this.BookId = bookId;
+            this.Title = title;
+            this.Author = author;
+            this.RentalPrice = rentalPrice;
         }
+
+        public Book() { }
+        public override string ToString()
+        {
+            return $"bookId: {BookId}, title: {Title}, author: {Author}, rentalPrice: {RentalPrice}";
+        }
+       
     }
 }
 
+
+
+
+    
     
    
