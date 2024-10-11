@@ -16,6 +16,7 @@ namespace BookRentalManagementSystem_V1
         {
             ISBN = iSBN;
             NumberOfPages = numberOfPages;
+            TotalBooks++;
         }
 
         public override string ToString()
@@ -24,6 +25,5 @@ namespace BookRentalManagementSystem_V1
         }
     }
 }
-
 
 

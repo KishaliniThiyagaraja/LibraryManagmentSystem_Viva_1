@@ -10,8 +10,10 @@ namespace BookRentalManagementSystem_V1
 
     internal class EBook : Book
     {
-        public double FileSize { get; }
-        public string Format { get; }
+        public double FileSize { get; set; }
+        public string Format { get; set; }
+        public int TotalBooks {  get; set; }
+
 
 
         public EBook(int bookId, string title, string author, decimal rentalPrice, double fileSize, string format)
@@ -19,6 +21,7 @@ namespace BookRentalManagementSystem_V1
         {
             FileSize = fileSize;
             Format = format;
+            TotalBooks++;
 
         }
 
