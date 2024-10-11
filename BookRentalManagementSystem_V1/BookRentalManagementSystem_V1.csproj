@@ -49,6 +49,8 @@
     <Compile Include="Book.cs" />
     <Compile Include="BookManager.cs" />
     <Compile Include="Books.cs" />
+    <Compile Include="EBook.cs" />
+    <Compile Include="PrintedBook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
